@@ -1,0 +1,11 @@
+*.html
+data/
+*.zip
+*.csv
+
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+.ipynb_checkpoints/
