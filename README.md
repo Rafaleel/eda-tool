@@ -71,16 +71,17 @@ docker run --rm \
 
 ## 📁 Project Structure
 
+<pre>
 eda-tool/
 ├── templates/
-│   └── template.html     # Jinja2 HTML template
-├── analyzer.py           # Statistical analysis with pandas
-├── charts.py             # Interactive charts with Plotly
-├── eda_report.py         # CLI entry point
+│   └── template.html
+├── analyzer.py
+├── charts.py
+├── eda_report.py
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
-
+</pre>
 ---
 
 ## 💡 Technical Decisions
